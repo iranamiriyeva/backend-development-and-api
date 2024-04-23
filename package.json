@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Irana Miriyeva",
 	"description": "Backend Development and APIs study project",
+	"license": "freeCodeCamp",
 	"keywords": [ "freecodecamp", "backend", "api" ],
 	"dependencies": {
 		"express": "^4.14.0"
